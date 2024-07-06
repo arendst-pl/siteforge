@@ -7,9 +7,7 @@ SiteForge is a Python application for creating HTML web pages by combining reusa
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary dependencies.
 
 ```
-
 pip install tkinter ttkthemes pywebview
-
 ```
 
 ## Usage
